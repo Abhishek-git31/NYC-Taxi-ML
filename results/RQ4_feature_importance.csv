@@ -1,0 +1,11 @@
+Feature,Importance,Rank
+payment_type,0.7234,1
+RatecodeID,0.1857,2
+pickup_day,0.0269,3
+passenger_count,0.0114,4
+pickup_hour,0.0107,5
+DOLocationID,0.0102,6
+fare_amount,0.0092,7
+PULocationID,0.0083,8
+trip_duration_minutes,0.0073,9
+trip_distance,0.0069,10

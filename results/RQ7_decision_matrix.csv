@@ -1,0 +1,6 @@
+Criterion,Logistic Reg.,Random Forest,XGBoost,SVM,Recommendation
+Predictive Performance,Medium,High,Very High,High,XGBoost
+Interpretability,High,Medium,Medium-Low,Low,Logistic Reg.
+Robustness,Medium,High,High,Medium,XGBoost / RF
+Computational Cost,Low (fast),Medium,High (slow),High (slow),Logistic Reg.
+Deployment Suitability,High,High,Medium,Medium,Random Forest

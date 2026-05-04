@@ -1,0 +1,5 @@
+Strategy,Accuracy,Precision,Recall,F1-score,AUC
+Raw Data,0.948,0.9544,0.9749,0.9646,0.9382
+Imputation Only,0.9491,0.9552,0.9756,0.9653,0.9375
+Scaling + Encoding,0.9491,0.9552,0.9756,0.9653,0.9375
+Full Pipeline (+ SMOTE),0.948,0.9564,0.9727,0.9645,0.9365
